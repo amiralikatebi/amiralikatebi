@@ -39,9 +39,9 @@ Building scalable and performant web applications with sleek UI/UX.
 
 ## 🔥 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiralikatebi&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiralikatebi&layout=compact&theme=radical&hide_border=true)
 
 
 ---
