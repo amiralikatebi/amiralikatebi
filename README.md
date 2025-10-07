@@ -1,41 +1,52 @@
-![Header Image](https://your-image-url.com)
+<!-- Animated Header GIF -->
+![Header GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-# Hi there, I'm Amir Ali 👋
+# 👋 Hey, I'm Amir Ali Katebi
 
-## 👨‍💻 About Me
-I'm a passionate full-stack developer with a love for clean code and innovative solutions. I specialize in:
+![Wave Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-- **Frontend:** React, Vue.js, Tailwind CSS
+---
+
+## 🚀 About Me
+
+I am a passionate full-stack developer & tech enthusiast, constantly exploring the latest in:
+
+- **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express, Laravel
 - **Mobile:** React Native, Flutter
-- **Tools:** Docker, Git, CI/CD
+- **DevOps:** Docker, GitHub Actions, CI/CD pipelines
 
-## 🚀 Projects
-Here are some of my notable projects:
+---
 
-- [Project One](https://github.com/yourusername/project-one): A brief description of this project.
-- [Project Two](https://github.com/yourusername/project-two): A brief description of this project.
+## 🎯 What I’m Working On
 
-## 📈 GitHub Stats
-![Amir Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Project Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)](https://github.com/yourusername/current-project)  
+Building scalable and performant web applications with sleek UI/UX.
+
+---
+
+## 🔥 GitHub Stats
+
+![Amir Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://yourwebsite.com)
 
-## 🛠️ Technologies & Tools
-![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue?style=flat&logo=react&logoColor=white)
-![Tool](https://img.shields.io/badge/Tool-Tool-blue?style=flat&logo=docker&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amiralikatebi.ir)
 
-## 📚 Currently Learning
-I'm currently diving into:
+---
 
-- Advanced TypeScript
-- Machine Learning with Python
-- Cloud Architecture with AWS
-
-## 🎯 Fun Fact
-When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to open-source projects.
-
-![Footer Image](https://your-footer-image-url.com)
+![Footer Animation](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
