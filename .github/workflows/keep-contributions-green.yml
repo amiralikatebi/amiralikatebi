@@ -1,0 +1,26 @@
+name: Keep Contributions Green
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # هر روز ساعت 12 ظهر به وقت UTC
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit empty change
+      run: |
+        date >> contributions.log
+        git add contributions.log
+        git commit -m "Keep contribution graph green 🌱" || echo "No changes to commit"
+        git push
